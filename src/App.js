@@ -35,7 +35,7 @@ function removeTodo(id) {
   return (
     <div className="App">
       <header className="App-header">
-        <p>React Todo</p>
+        <p>Day in the Life</p>
         <TodoForm addTodo={addTodo}/>
         <TodoList 
         todos={todos}
